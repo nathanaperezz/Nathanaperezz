@@ -21,4 +21,4 @@ For fun
 
 ## About me
 📍 Orlando, FL <br>
-💬 Ask me about: plants, technology, and the travel. <br> 
+💬 Ask me about: plants, technology, and travel. <br> 
