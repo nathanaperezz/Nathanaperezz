@@ -10,6 +10,8 @@ Valencia College 🏫
 - Software Integration, Configuration, & Testing
 - Seminar Course
 
+  As this semester comes to a close, I prepare for my next semester with only 1 more course! 
+
 Mentorship 🐛
 - Working towards patching [bug #1835186](https://bugs.launchpad.net/tempest/+bug/1835186) in OpenStack's testing suite Tempest. [View my proposed patch on Gerrit!](https://review.opendev.org/c/openstack/tempest/+/935526)
 
@@ -21,4 +23,4 @@ For fun 🕹️
 
 ## About me
 📍 Oviedo, FL <br>
-💬 Ask me about: plants, technology, health, and travel. <br> 🌱🏕️
+💬 Ask me about: plants, technology, health, and travel 🌱🏕️ <br> 
