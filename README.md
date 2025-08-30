@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I'm Nathan Perez! <br>
-I am 1 course away from completing my Bachelor's degree in Computing Technology & Software Development at [Valencia College](https://valenciacollege.edu). 
+I've just completed my Bachelor's degree in Computing Technology & Software Development at [Valencia College](https://valenciacollege.edu). 
 
-## 💻  I'm currently learning 
+## 💻 What I have been up to 
 ### Valencia College 🏫
 - Software Development Project - My team is developing a scanner app to easily identify recyclable items. 
 
